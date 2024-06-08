@@ -1,6 +1,5 @@
 {
     "values":[
-    "minecraftce:load",
-    "minecraftce:addonload"
+    "minecraftce:load"
     ]
 }
