@@ -1,0 +1,1 @@
+execute as @a if score @s cooldownTimer matches 0 run function minecraftce:modual_chooser
