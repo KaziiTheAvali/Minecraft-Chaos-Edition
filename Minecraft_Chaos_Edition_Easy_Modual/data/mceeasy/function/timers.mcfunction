@@ -1,0 +1,1 @@
+execute as @a if score @s longreachcooldown matches 1.. run scoreboard players remove @s longreachcooldown 1

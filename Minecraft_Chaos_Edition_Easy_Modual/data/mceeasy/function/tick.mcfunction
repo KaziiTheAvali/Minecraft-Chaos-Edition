@@ -1,0 +1,1 @@
+execute as @a if entity @s[tag=playing] run function mceeasy:timers

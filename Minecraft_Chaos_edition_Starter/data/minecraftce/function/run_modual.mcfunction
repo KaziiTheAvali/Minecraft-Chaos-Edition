@@ -1,1 +1,1 @@
-$execute as @a if entity @s[tag=playing] if score @s cooldownTimer matches 0 run $(function)
+$function $(function)
