@@ -2,4 +2,8 @@
 scoreboard players set @s cooldownTimer 30
 scoreboard players set @s cooldownTimer2 60
 scoreboard players set @s cooldownTimer3 90
+scoreboard players set @s game_play 0
+scoreboard players set @s game_stop 0
 tag @s add loaded
+tag @s add stopped
+tellraw @s ["",{"text": "to start the game for yourself do /trigger game_play"}]
