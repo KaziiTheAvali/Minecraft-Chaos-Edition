@@ -1,0 +1,1 @@
+tellraw @s ["",{"text": "shoutout to "},{"text": "Kaze Emanuar", "clickEvent": {"action": "open_url","value": "https://www.youtube.com/watch?v=67hoJRCQItI"},"color": "#5887FF"}]
