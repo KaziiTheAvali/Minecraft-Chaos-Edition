@@ -1,0 +1,2 @@
+function mcnormal:teleport_randomizer
+function mcnormal:teleport_global with storage mcnormal:temp
