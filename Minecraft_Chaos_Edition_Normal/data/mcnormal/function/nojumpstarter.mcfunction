@@ -1,0 +1,1 @@
+execute if entity @s[tag=!jumpStrengthEffect] run function mcnormal:nojump
