@@ -1,3 +1,6 @@
+# OUTDATED! 
+i will be forking this into MCCE 2. and MCCE Base you may use any code if you wish 
+
 # Minecraft Chaos Edition
  Modual datapack for chaotic minecraft fun
 ## How to install
