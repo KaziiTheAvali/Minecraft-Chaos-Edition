@@ -1,5 +1,5 @@
 # OUTDATED! 
-i will be forking this into MCCE 2. and MCCE Base you may use any code if you wish 
+i will be forking this into [MCCE 2](https://github.com/KaziiTheAvali/Minecraft-Chaos-Edition-2). and [MCCE Base](https://github.com/KaziiTheAvali/Minecraft-Chaos-Edition-Base) .you may use any code if you wish 
 
 # Minecraft Chaos Edition
  Modual datapack for chaotic minecraft fun
